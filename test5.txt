@@ -1,0 +1,3 @@
+Confluence is basically a team collaboration application or software that gives a platform for all teams working on a project to work together and share updates & information effectively. This can reduce a lot of communication gaps on various matters related to the SDLC.
+
+It helps all departments/ teams to organize, share, and discuss their work. Confluence is a one-stop solution to have all content or information accessible to everyone, share important information & data, post updates, and communicate with others.
